@@ -1,2 +1,2 @@
 # personal_cv_website
-Website for my own CV, created as part of an assignment for the CS412 class
+Website for explaining basics of carnivorous plant care, created as part of an assignment for the CS412 class
